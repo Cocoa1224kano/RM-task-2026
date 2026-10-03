@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3 Pin=H1-1
+Removed Pin From Net: NetName=3V3 Pin=H1-2
+Removed Pin From Net: NetName=GND Pin=H1-5
+Removed Pin From Net: NetName=GND Pin=H1-6
+Removed Member From Class: ClassName=Schematic Member=H1
+Change Component Designator: OldDesignator=CAN NewDesignator=U10
+Change Component Designator: OldDesignator=SWD NewDesignator=U6
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-2
