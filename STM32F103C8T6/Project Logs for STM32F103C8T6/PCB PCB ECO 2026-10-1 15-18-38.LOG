@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=+5V Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=3V3 Pin=C16-2
+Removed Member From Class: ClassName=Schematic Member=C15
+Removed Member From Class: ClassName=Schematic Member=C16
+Added Room: Name=Schematic
